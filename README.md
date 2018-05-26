@@ -2,25 +2,33 @@
 
 ![Demo](./demo/demo.gif)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Getting Started
+------
 
-Things you may want to cover:
+#### Clone The Repository
+`$ git clone https://github.com/9jaswag/pusher-photofeed-ruby.git`
 
-* Ruby version
 
-* System dependencies
+#### Change directory
+`$ cd pusher-photofeed-ruby`
 
-* Configuration
+#### Install dependencies
+`$ bundle install`
 
-* Database creation
+#### Setup up database
+`$ rails db:setup`
 
-* Database initialization
+`$ rails db:migrate`
 
-* How to run the test suite
+#### Run the app
+`$ rails serve`
 
-* Services (job queues, cache servers, search engines, etc.)
+Prerequisites
+------
+A basic knowledge of Ruby
 
-* Deployment instructions
 
-* ...
+Built With
+------
+- [Pusher](https://pusher.com) - A Ruby gem to interact with the Pusher REST API
+- [Cloudinary](https://cloudinary.com/) - Cloudinary is a media management platform for web and mobile developers
