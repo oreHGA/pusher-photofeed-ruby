@@ -6,7 +6,7 @@ Getting Started
 ------
 
 #### Clone The Repository
-`$ git clone https://github.com/9jaswag/pusher-photofeed-ruby.git`
+`$ git clone https://github.com/oreHGA/pusher-photofeed-ruby.git`
 
 
 #### Change directory
