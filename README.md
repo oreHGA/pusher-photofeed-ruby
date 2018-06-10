@@ -1,5 +1,7 @@
 # Realtime PhotoFeeds with Pusher + Cloudinary + Ruby
 
+[View tutorial](https://pusher.com/tutorials/photo-sharing-ruby-rails)
+
 ![Demo](./demo/demo.gif)
 
 Getting Started
